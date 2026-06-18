@@ -51,12 +51,14 @@ extra:
 nav:
   - Accueil: index.md
   - Arcaea: jeux/arcaea/arcaea.md
+  - Dance Dance Revolution/In The Groove:
+    - Les controllers: jeux/ddr/controllers.md
+  - Taiko No Tatsujin:
+    - Les controllers: jeux/taiko/controllers.md  
   - SOUND VOLTEX:
     - Le jeu: jeux/soundvoltex/soundvoltex.md
     - Les controllers: jeux/soundvoltex/controllers.md
     - Jouer sur PC: jeux/soundvoltex/logiciels.md
-  - Dance Dance Revolution/In The Groove:
-    - Les controllers: jeux/ddr/controllers.md
   - Comment progresser ?: progression.md
   - Les salles d'arcade: arcades.md
   - Les associations: associations.md
